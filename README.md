@@ -1,5 +1,5 @@
 # MDP REPRESENTATION
-
+ 
 ## AIM:
 The aim of this MDP is to model the decision-making process of a person while coding, considering two levels of concentration - full concentration and half concentration, and to maximize productivity
 
